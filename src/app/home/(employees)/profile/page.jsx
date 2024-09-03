@@ -156,7 +156,7 @@ export default function Profile() {
                     <p className='font-light  text-[#16151c] mt-3' style={{ fontFamily: lexend.style.fontFamily }}>300 EGP</p>
                   </div>
                   <div className='w-1/2'>
-                    <p className='font-light text-sm text-[#a2a1ab]' style={{ fontFamily: lexend.style.fontFamily }}>Total Salary</p>
+                    <p className='text-sm text-[#ee232f]' style={{ fontFamily: lexend.style.fontFamily }}>Total Salary</p>
                     <p className='font-light  text-[#16151c] mt-3' style={{ fontFamily: lexend.style.fontFamily }}>54000 EGP</p>
                   </div>
                 </div>
